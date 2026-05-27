@@ -1,0 +1,8 @@
+[package]
+name = "agent-handshake"
+version = "0.1.0"
+edition = "2021"
+description = "Agent-to-agent handshake protocol — negotiate capabilities, version, and session params"
+license = "MIT"
+
+[dependencies]
