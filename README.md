@@ -36,3 +36,5 @@ assert_eq!(shared, vec!["search", "deploy"]);
 ## License
 
 MIT
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
